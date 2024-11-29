@@ -1,0 +1,133 @@
+body{
+    background-color: whitesmoke;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+ 
+ .container{ 
+    display: flex;
+} 
+
+.menu ul{
+    display: flex;
+}
+.menu ul li{
+    margin: 15px;
+    font-size: 15px;
+    list-style: none;
+    margin-top: 20px;
+    margin-right: -5px;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+
+.logo{
+    margin-top: -20px;
+    margin-right: 1050px;
+}  
+
+ .content{
+    margin-top: 70px;
+    margin-left: 350px;
+} 
+
+.world{
+    margin-right: 50px;
+}
+
+.content p{
+    font-size: 24px;
+}
+
+.contact_form{
+    padding: 30px;
+        width: 300px;
+        height: 550px;
+        background-color: white;
+        border-radius: 20px;
+        margin-top: 30px;
+}
+
+
+.heading{
+    margin-top: -30px;
+    text-align: center; 
+}
+
+.paraghrap{
+    text-align: center;
+}
+
+.paraghrap p{
+    margin-top: -10px;
+}
+
+.holders{
+    margin-left: 30px;
+}
+
+.holders input{
+    width: 90%;
+}
+
+form input{
+    padding-bottom:  28px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+} 
+
+form button{
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 90px;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+.next button{
+    background-color: rgb(76, 76, 250);
+    color: white;
+    margin-top: -30px;
+    border: none;
+}
+
+span{
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+.sign label{
+    margin-left: 9px;
+}
+
+.enter button{
+color: blue;
+border: 1px solid blue;
+}
+
+
+
+.text{
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+.google button{
+    border: none;
+
+}
+
+
+
+
+
+
+
+
